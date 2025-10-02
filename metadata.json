@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Quiz Master",
+  "description": "An interactive and engaging quiz platform powered by the Gemini API. Users can take dynamically generated quizzes on any topic, receive instant feedback, and get a detailed performance grade.",
+  "requestFramePermissions": []
+}
